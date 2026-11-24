@@ -1,0 +1,15 @@
+{
+  "playlistIds": [
+    "19723756",
+    "3779629",
+    "3778678"
+  ],
+  "maxTracksPerPlaylist": 10,
+  "maxItems": 30,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
